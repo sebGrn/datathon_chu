@@ -17,5 +17,5 @@
 - [glTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [jyrkioraskari/IFCtoLBD: IFCtoLBD converts IFC (Industry Foundation Classes STEP formatted files into the Linked Building Data ontologies.](https://github.com/jyrkioraskari/IFCtoLBD)
 - [AECgeeks/ifc-pipeline: Processing queue and front-end for visualizing BIM models with IfcOpenShell, Docker Compose and Flask](https://github.com/AECgeeks/ifc-pipeline)
-  [IFC pipeline](https://view.ifcopenshell.org/)
--
+- [IfcOpenShell](https://view.ifcopenshell.org/)
+
